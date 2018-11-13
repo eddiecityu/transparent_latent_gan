@@ -7,7 +7,7 @@ This is the repository of my three-week project: "**Draw as you can tell: contro
 - **Blog post** expaining the motivation, architecture and results is posted on [this Medium link](https://medium.com/p/d170b1b59255)
 - **Slides presentation** explaining the core ideas of this project are available at [this Google Drive link](https://docs.google.com/presentation/d/1OpcYLBVpUF1L-wwPHu_CyKjXqXD0oRwBoGP2peSCrSA/edit#slide=id.p1)
 - A video presentation of this project will be available soon on YouTube
-- An **interactive demo** can be found in this Kaggle notebook: [https://www.kaggle.com/summitkwan/tl-gan-demo](https://www.kaggle.com/summitkwan/tl-gan-demo), have fun playing with this model!
+- An **interactive demo** can be found in this Kaggle notebook: [https://www.kaggle.com/eddiechow/tl-gan-demo-87bbaf](https://www.kaggle.com/eddiechow/tl-gan-demo-87bbaf), have fun playing with this model!
 
 ![Alt text](./static/online_demo_run_fast_01.gif?raw=true "Title")
 
